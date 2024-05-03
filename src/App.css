@@ -1,0 +1,51 @@
+/* .taskContainer {
+    display: flex;
+    gap: 1rem;
+    background-color: white;
+    margin-bottom: 0.5rem;
+    border-radius: 0.375rem;
+    padding: 0.5rem;
+}
+
+.task {
+    width: 75%;
+}
+
+.descSmall {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+} */
+
+/* editTools w-[25%] flex justify-evenly items-center */
+/* .editTools {
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+} */
+
+/* .editButton > svg { */
+    /* w-7 hover:text-blue-600 hover:fill-blue-600 cursor-pointer hover:bg-blue-200 rounded-full */
+    /* width: 1.75rem;
+    cursor: pointer;
+    border-radius: 9999px;
+} */
+
+/* .editButton > svg:hover {
+    color: rgb(37, 99, 235);
+    fill: rgb(37, 99, 235);
+    background-color: rgb(191, 219, 254);
+}
+
+.deleteButton > svg { */
+    /* w-7 hover:text-blue-600 hover:fill-blue-600 cursor-pointer hover:bg-blue-200 rounded-full */
+    /* width: 1.75rem;
+    cursor: pointer;
+    border-radius: 9999px;
+}
+
+.deleteButton > svg:hover {
+    color: rgb(220, 38, 38);
+    fill: rgb(220, 38, 38);
+    background-color: rgb(254, 202, 202);
+} */
